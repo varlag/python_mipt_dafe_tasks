@@ -5,3 +5,4 @@ def is_there_any_good_subarray(
 
     # ваш код
     return False
+

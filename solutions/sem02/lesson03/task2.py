@@ -38,3 +38,4 @@ def convert_to_sphere(
     theta = np.arctan2(r_xy, z)
 
     return r, phi, theta
+

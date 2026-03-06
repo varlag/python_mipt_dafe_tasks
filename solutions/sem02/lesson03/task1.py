@@ -30,3 +30,4 @@ def get_mutual_l2_distances_vectorized(
 
     d = lhs[:, np.newaxis, :] - rhs
     return np.sqrt(np.sum(d**2, axis=2))
+

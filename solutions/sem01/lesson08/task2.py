@@ -7,3 +7,4 @@ def collect_statistic(statistics: dict[str, list[float, int]]) -> Callable[[T], 
 
     # ваш код
     pass
+
